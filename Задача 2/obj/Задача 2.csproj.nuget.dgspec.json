@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tatyana/Desktop/C# Seminar1_Homework/Задача 2/Задача 2.csproj": {}
+    "/Users/tatyana/Desktop/C#/C# Seminar1_Homework/Задача 2/Задача 2.csproj": {}
   },
   "projects": {
-    "/Users/tatyana/Desktop/C# Seminar1_Homework/Задача 2/Задача 2.csproj": {
+    "/Users/tatyana/Desktop/C#/C# Seminar1_Homework/Задача 2/Задача 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tatyana/Desktop/C# Seminar1_Homework/Задача 2/Задача 2.csproj",
+        "projectUniqueName": "/Users/tatyana/Desktop/C#/C# Seminar1_Homework/Задача 2/Задача 2.csproj",
         "projectName": "Задача 2",
-        "projectPath": "/Users/tatyana/Desktop/C# Seminar1_Homework/Задача 2/Задача 2.csproj",
+        "projectPath": "/Users/tatyana/Desktop/C#/C# Seminar1_Homework/Задача 2/Задача 2.csproj",
         "packagesPath": "/Users/tatyana/.nuget/packages/",
-        "outputPath": "/Users/tatyana/Desktop/C# Seminar1_Homework/Задача 2/obj/",
+        "outputPath": "/Users/tatyana/Desktop/C#/C# Seminar1_Homework/Задача 2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tatyana/.nuget/NuGet/NuGet.Config"
